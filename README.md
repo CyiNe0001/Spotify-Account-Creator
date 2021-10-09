@@ -6,4 +6,6 @@ Python Setup:
 3. Open your terminal and enter "pip install -r requirements.txt" and "pip install -U requests[socks]"
 4. Start the python file and enter the amount of accounts you need and how many threads you want.
 
-If you dont want to install python simply download the .exe from [Releases](https://github.com/KevinLage/Spotify-Account-Creator/releases)
+변경내역:
+한국어로 변경
+이름 바꾸는 기능 추가
