@@ -7,5 +7,5 @@ Python Setup:
 4. Start the python file and enter the amount of accounts you need and how many threads you want.
 
 변경내역:
-한국어로 변경
-이름 바꾸는 기능 추가
+1. 한국어로 변경
+2. 이름 바꾸는 기능 추가
