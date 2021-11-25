@@ -4,7 +4,6 @@ import string
 import threading
 import time
 from os import system
-from discord.activity import create_activity
 
 import requests
 
